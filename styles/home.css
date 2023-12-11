@@ -1,0 +1,71 @@
+header img{
+    box-shadow: 10px 10px 5px green;
+    margin-bottom: 1%;
+}
+
+
+
+body{
+    background-color:#B5E66E;
+}
+
+body img{
+    margin-top: 2%;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    
+}
+
+body h2{
+    text-align: center;
+}
+
+#home1{
+    margin-left: 2%;
+    margin-right: 2%;
+    max-width: 30%;
+    float: left;
+    
+}
+#home1 img{
+    max-width: 75%;
+    height: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#home2{
+    max-width: 30%;
+    float: left;
+}
+#home2 img{
+    max-width: 75%;
+    height: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#home3{
+    margin-left: 2%;
+    margin-right: 2%;
+    max-width: 30%;
+    float: left;
+}
+#home3 img{
+    max-width: 75%;
+    height: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row{
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    text-align: center;
+}
+
+button{
+    margin: 0 auto;
+}
